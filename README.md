@@ -243,7 +243,12 @@ Store Price Analysis
 Interactive Dashboard
         ↓
 Business Insights
-# 📊 **Dashboard Structure**
+
+---
+
+# 📊 Dashboard Structure
+
+```text
 PORTER DELIVERY ANALYSIS
 │
 ├── Executive KPI Layer
